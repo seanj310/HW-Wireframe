@@ -1,0 +1,35 @@
+
+p{text-align:center;
+
+border:10px;
+border-color: black;
+background-color:whitesmoke;
+margin-left:10%;
+margin-right:15%;
+color:gray;
+height: 100px;
+}
+nav{text-align:center;
+    border:10px;
+    border-color:black;
+    background-color:whitesmoke;
+    margin-left:10%;
+    margin-right:15%;
+    color:gray;
+    height: 100px;
+    }
+
+body
+{background-color:gray;}
+
+footer
+{text-align:center;
+border:10px;
+border-color:black;
+background-color:whitesmoke;
+margin-left:10%;
+margin-right:15%;
+color:gray;
+height: 100px;
+
+}
